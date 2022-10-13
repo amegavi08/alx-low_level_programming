@@ -3,7 +3,7 @@
 *main - Entry point of the programme
 *
 *
-*return : - the value of 0
+*Return : Always 0 (Success)
 *
 *
 */
