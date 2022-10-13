@@ -1,7 +1,7 @@
 #include <stdio.h>
-/*
-*main - programme to print a given sentence 
-*return - The programme should end with a value of 0
+/**
+*main - Entry point 
+*Return: Always 0 (Succes)
 */
 int main(void)
 {
