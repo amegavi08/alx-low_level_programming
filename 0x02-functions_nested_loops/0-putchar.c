@@ -1,10 +1,7 @@
 #include "main.h"
 /**
-*
-* main - Prints _putchar
+* main - Prints _putchar as a message
 * Return: always 0
-*
-*
 */
 int main(void)
 {
