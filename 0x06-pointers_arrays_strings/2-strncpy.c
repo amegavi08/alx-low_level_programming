@@ -2,7 +2,7 @@
 
 /**
 * _strncpy - copies.
-* @desst: destination.
+* @dest: destination.
 * @src: source.
 * @n: amount of bytes from src.
 * Return: the pointer to dest
