@@ -1,8 +1,5 @@
 #include <stdio.h>
-/*
-* main - prints an integer
-* Return: Always 0
-*/
+
 int main(void)
 {
 int n;
